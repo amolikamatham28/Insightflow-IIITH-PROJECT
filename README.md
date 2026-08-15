@@ -1,1 +1,2 @@
-# QueryMind
+# HAR PROJECT
+InsightFlow
