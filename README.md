@@ -18,9 +18,29 @@ At its core, InsightFlow uses a fine-tuned MobileNetV2 architecture to combine s
 
 ## Activities Recognized
 
-Calling · Clapping · Cycling · Dancing · Drinking
-Eating · Fighting · Hugging · Laughing · Listening to Music
-Running · Sitting · Sleeping · Texting · Using Laptop
+<p>
+  <code>Calling</code>
+  <code>Clapping</code>
+  <code>Cycling</code>
+  <code>Dancing</code>
+  <code>Drinking</code>
+</p>
+
+<p>
+  <code>Eating</code>
+  <code>Fighting</code>
+  <code>Hugging</code>
+  <code>Laughing</code>
+  <code>Listening to Music</code>
+</p>
+
+<p>
+  <code>Running</code>
+  <code>Sitting</code>
+  <code>Sleeping</code>
+  <code>Texting</code>
+  <code>Using Laptop</code>
+</p>
 
 ## Why this approach
 
@@ -41,6 +61,11 @@ Running · Sitting · Sleeping · Texting · Using Laptop
 
 ## Tech Stack
 
-TensorFlow · Keras · OpenCV · scikit-learn · Google Colab
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?logo=googlecolab&logoColor=white)
 
 ---
